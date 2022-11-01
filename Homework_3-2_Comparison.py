@@ -4,11 +4,11 @@ list_1 = list(input('Enter the 1th string: ', ))
 list_2 = list(input('Enter the 2th string: ', ))
 
 if len(list_1) == len(list_2):
+    check = True
     for i in range(len(list_1)):
-        check = True
         if list_1[i] != list_2[i]:
             check = False
-            print('Different elements №', i + 1, ':', list_1[i], '-', list_2[i])
+            print('Different element №', i + 1, ':', list_1[i], '-', list_2[i])
     if check:
         print('True: the strings match.')
     else:
