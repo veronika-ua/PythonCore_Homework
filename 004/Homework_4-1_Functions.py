@@ -1,9 +1,5 @@
 # Use functions
 
-a = 9822  # Dark horse
-b = 9816  # Light horse
-
-
 def multiplication_table():
     for i in range(10):
         for ii in range(10):
@@ -33,6 +29,8 @@ def checkerboard(checkerboard_size):
 my_choose = input(f'Make a choice:\n1 - Display the checkerboard.\n2 - Display the multiplication table.\n')
 
 if my_choose == '1':
+    a = 9822  # Dark horse
+    b = 9816  # Light horse
     checkerboard(10)
 elif my_choose == '2':
     multiplication_table()
