@@ -1,0 +1,11 @@
+|    Index    |    Type    |   Flying   |  Tonnage   |  Engines   | Passengers |
+|      1      |  civilian  |    Yes     |  30-75 t   |     6      |    260     |
+|      2      |  civilian  |    Yes     |  10-30 t   |     3      |    203     |
+|      3      |  civilian  |    Yes     |   <10 t    |     2      |     26     |
+|      4      |  civilian  |    Yes     |  30-75 t   |     3      |    203     |
+|      5      |  civilian  |    Yes     |  10-30 t   |     6      |    167     |
+|      6      |  military  |    Yes     |  30-75 t   |     2      |     26     |
+|      7      |  military  |    Yes     |  30-75 t   |     8      |     62     |
+|      8      |  military  |    Yes     |   >75 t    |     2      |    224     |
+|      9      |  military  |    Yes     |  30-75 t   |     4      |    289     |
+|      10     |  military  |    Yes     |   <10 t    |     2      |    150     |
